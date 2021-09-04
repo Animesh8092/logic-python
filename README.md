@@ -12,6 +12,6 @@ pip install logic-python
 ```python
 from AlzebraModule import AlzebraicEquation as AE
 
-to find roots and solution
+# To find roots and solution
 soln = AE.QuadraticEquation(1,5,6)
 ```
